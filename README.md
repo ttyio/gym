@@ -1,3 +1,3 @@
 # gym
 
-wechat server backend
+wechat server backend, host on sae.
